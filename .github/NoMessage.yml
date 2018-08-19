@@ -1,0 +1,14 @@
+PAC version : 2.0.0pre1
+
+Server version :1.11
+
+Plugin list :CMI, nothing else
+
+Explanation of issue
+
+No message.yml in the PAC file!
+In config.yml, it mentioned message.yml can customise the format of span checker
+
+Videos/Screenshots
+
+none
